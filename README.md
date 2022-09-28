@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/florikodra/florikodra/master/neuro_logo.png?token=GHSAT0AAAAAABYV4AP4QFV2P24ENYJS4MG6YZUTMHQ)
+![Logo](https://github.com/florikodra/ALL-MY-PROJECTS/blob/main/neuro_logo.png)
 
 
 # Neuro - Expo Starter Kit
